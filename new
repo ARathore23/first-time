@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How to make a Calculator</title>
+    <link rel="stylesheet" type="text/css" href="Cal.css">
+<body>
+    <div class="container">
+        <div class="item flex-container">
+            <div class="flex iteam flex-iteam1">
+           <img src="download.png">
+            </div>
+            <div class="flex iteam flex-iteam2">
+               <img src="sign-of-ruler-icon-vector.jpg">
+            </div>
+            <div class="flex iteam flex-iteam3">
+              <img src="calculator.png">
+            </div>
+            <div class="flex flex-iteam4">
+                <img src="backspace.png">
+                </div>
+           
+        </div>
+        <div class="item">
+       <div class="grid-box">
+       <div class="grid-box b01">
+        C
+       </div>
+     <div class="grid-box b02">
+        ()
+     </div>
+     <div class="grid-box b03">
+        %
+     </div>
+     <div class="grid-box b04">
+        <img src="divide.png">
+     </div>
+     <div class="grid-box b05">
+        7
+     </div>
+     <div class="grid-box b06"> 
+        8</div>
+     <div class="grid-box b07">9</div>
+     <div class="grid-box b08">
+        <img src="multiply.png">
+     </div>
+     <div class="grid-box b09">4</div>
+     <div class="grid-box b010">5</div>
+     <div class="grid-box b011">6</div>
+     <div class="grid-box b012">-</div>
+     <div class="grid-box b013">1</div>
+     <div class="grid-box b014">2</div>
+     <div class="grid-box b015">3</div>
+     <div class="grid-box b016">+</div>
+     <div class="grid-box b017">+/-</div>
+     <div class="grid-box b018">0</div>
+     <div class="grid-box b019">.</div>
+     <div class="grid-box b020">=</div>
+
+        </div>
+        </div>
+        
+    </div>
+</body>
+</html>
